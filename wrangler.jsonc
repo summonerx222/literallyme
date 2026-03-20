@@ -1,0 +1,7 @@
+{
+  "name": "summonerx2-card",
+  "compatibility_date": "2026-03-20",
+  "assets": {
+    "directory": "./public"
+  }
+}
